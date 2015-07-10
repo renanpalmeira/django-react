@@ -1,4 +1,6 @@
 *.pyc
-node_modules/
 npm-debug.log
 *.sql*
+node_modules/
+bundles/
+bundle/

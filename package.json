@@ -4,18 +4,18 @@
     "description": "Interaction the Django with React (JSX, Flux, Etc)",
     "main": "index.jsx",
     "scripts": {
-    "watch": "./node_modules/.bin/webpack --config webpack.config.js --watch",
-    "serve": "./node_modules/.bin/http-server -p 8080",
-    "dev": "webpack-dev-server --progress --colors --port 8090"
+    	"watch": "./node_modules/.bin/webpack --config webpack.config.js --watch",
+    	"serve": "./node_modules/.bin/http-server -p 8080",
+    	"dev": "webpack-dev-server --progress --colors --port 8090"
     },
     "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RenanPalmeira/django-react.git"
+    	"type": "git",
+    	"url": "git+https://github.com/RenanPalmeira/django-react.git"
     },
     "keywords": [
-    "django",
-    "react",
-    "webpack"
+    	"django",
+    	"react",
+    	"webpack"
     ],
     "author": "Renan P. Santos",
     "license": "MIT",
@@ -24,7 +24,7 @@
         "react":"0.13.3",
         "webpack":"1.10.1",
         "webpack-bundle-tracker":"0.0.51",
-        "node-libs-browser":"0.5.2",
+        "node-libs-browser":"0.5.2"
     },   
     "devDependencies":{
         "flux":"2.0.3",
@@ -33,7 +33,7 @@
         "webpack-dev-server":"1.10.1"
     },
     "bugs": {
-    "url": "https://github.com/RenanPalmeira/django-react/issues"
+    	"url": "https://github.com/RenanPalmeira/django-react/issues"
     },
     "homepage": "https://github.com/RenanPalmeira/django-react"
 }
