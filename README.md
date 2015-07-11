@@ -14,10 +14,10 @@ Interaction the Django with React (JSX, Flux, React-Native, Etc)
 #### Whys
 * the Python is a beautiful language and tool 
 * the React give simple programming model and better performance in applications 
-* [https://www.python.org/]
-* [https://www.djangoproject.com/]
-* [https://facebook.github.io/react/]
-* [http://webpack.github.io/]
+* https://www.python.org/
+* https://www.djangoproject.com/
+* https://facebook.github.io/react/
+* http://webpack.github.io/
 
 #### __Future__
 * Implement Gulp and Grunt in other branchs
