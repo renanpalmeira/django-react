@@ -51,3 +51,5 @@ For start the webpack usede `npm run watch` ou `npm run watch &`. The last step 
 * http://jhudson8.github.io/react-chartjs/index.html
 * https://github.com/lightweightdjango/examples
 * http://svgporn.com/
+* https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux
+* https://facebook.github.io/flux/docs/todo-list.html#content
