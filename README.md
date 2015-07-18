@@ -4,11 +4,11 @@
 #### Overview
 Interaction Django with React (JSX, Flux, React-Native, Etc) 
 
-<img title="Python <3" src="http://svgporn.com/python.svg" width="130px"/>
-<img title="Django" src="http://svgporn.com/django.svg" width="100px"/>
-<img title="React" src="http://svgporn.com/react.svg" width="140px"/>
-<img title="Webpack" src="http://svgporn.com/webpack.svg" width="100px"/>
-<img title="Gulp" src="http://svgporn.com/gulp.svg" width="60px"/>
+<img title="Python <3" src="http://svgporn.com/logos/python.svg" width="130px"/>
+<img title="Django" src="http://svgporn.com/logos/django.svg" width="100px"/>
+<img title="React" src="http://svgporn.com/logos/react.svg" width="140px"/>
+<img title="Webpack" src="http://svgporn.com/logos/webpack.svg" width="100px"/>
+<img title="Gulp" src="http://svgporn.com/logos/gulp.svg" width="60px"/>
 
 
 #### Whys
