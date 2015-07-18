@@ -2,7 +2,7 @@
 
 
 #### Overview
-Interaction the Django with React (JSX, Flux, React-Native, Etc) 
+Interaction Django with React (JSX, Flux, React-Native, Etc) 
 
 <img title="Python <3" src="http://svgporn.com/python.svg" width="130px"/>
 <img title="Django" src="http://svgporn.com/django.svg" width="100px"/>
@@ -13,7 +13,7 @@ Interaction the Django with React (JSX, Flux, React-Native, Etc)
 
 #### Whys
 * the Python is a beautiful language and tool 
-* the React give simple programming model and better performance in applications 
+* React give simple programming model and better performance in applications 
 * https://www.python.org/
 * https://www.djangoproject.com/
 * https://facebook.github.io/react/
